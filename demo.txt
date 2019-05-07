@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 2E9C-3B75
+
+ Directory of D:\java_code_for_jenkins_tutorial
+
+07-05-2019  09:57    <DIR>          .
+07-05-2019  09:57    <DIR>          ..
+07-05-2019  09:57                 0 demo.txt
+07-05-2019  09:35               688 HelloWorld.class
+07-05-2019  09:35               152 HelloWorld.java
+               3 File(s)            840 bytes
+               2 Dir(s)  136,493,162,496 bytes free
